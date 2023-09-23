@@ -1,4 +1,4 @@
-Rust Data Structures and Algorithms Course 
+Rust Data Structures and Algorithms Course (coming soon) 
 
 1. Getting to Grips with Rust and its Syntax (may skip)
 2. Algorithm Complexity and Sorting Algorithms (not exciting, but still)
